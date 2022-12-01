@@ -1,0 +1,1557 @@
+/* =======******====== responsive Part ======******====== */
+/* =======******====== responsive Part ======******====== */
+
+@media (min-width: 1400px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+  // =====// Banner part == // ==================================//
+  #banner_part .container .banner_slider .prv_arr {
+    top: 209px;
+    left: 851px;
+  }
+
+  #banner_part .container .banner_slider .nxt_arr {
+    right: -16px;
+    bottom: 335px;
+  }
+
+  // =====// Banner part End == // ==================================//
+}
+
+
+
+/* =======******====== Large part three ======******====== */
+/* =======******====== Large part three ======******====== */
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+  // =====// Banner part == // ==================================//
+
+  #banner_part .container .banner_slider .prv_arr {
+    top: 209px;
+    left: 715px;
+  }
+
+  #banner_part .container .banner_slider .nxt_arr {
+    right: -15px;
+    bottom: 335px;
+  }
+
+  // =====// Banner part End == // ==================================//
+
+
+  // =====// Deals part == // ==================================//
+
+  #deals_part .container .deals_left h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 40px;
+  }
+
+  // =====// Deals part End == // ==================================//
+
+
+  // =====// About part == // ==================================//
+  
+  #about_part .container .information h2 span {
+    display: block;
+    font-size: 24px;
+  }
+  
+  // =====// About part End == // ==================================//
+
+
+  // =====// Comment part == // ==================================//
+  
+  #comment_part .container .container_shape .comment_image .text a {
+    left: -933px !important;
+    top: 100px;
+  }
+  
+  // =====// Comment part End == // ==================================//
+
+
+  // =====// Footer part == // ==================================//
+  
+  #footer_part .container .footer_head h2 {
+    font-family: 'Google Sans';
+    font-size: 41px !important;
+    line-height: 48px !important;
+  }
+  
+  #footer_part .container .submit a {
+    font-family: 'Inter';
+    margin: 26px 5px !important;
+  }
+
+  // =====// Footer part End == // ==================================//
+
+}
+
+/* =======******====== Large part three ======******====== */
+/* =======******====== Large part three ======******====== */
+
+
+
+
+
+
+/* =======******====== Medium part ======******====== */
+/* =======******====== Medium part ======******====== */
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  // =====// Banner part == // ==================================//
+
+  #banner_part .container .banner_slider .prv_arr {
+    top: 209px;
+    left: 703px;
+  }
+
+  #banner_part .container .banner_slider .nxt_arr {
+    right: -22px;
+    bottom: 335px;
+  }
+
+  #banner_part .container .content .inner_content {
+    position: absolute;
+    left: 350px;
+    top: -293px;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 475px;
+    height: 335px;
+    background: rgba(255, 255, 255, 0.4);
+  }
+
+  #banner_part .container .content .inner_content h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 40px;
+    text-align: center;
+  }
+
+  #banner_part .container .content .inner_content p {
+    font-family: 'Google Sans';
+    font-size: 22px;
+    margin-top: -17px;
+    text-align: center;
+  }
+
+  #banner_part .container .dots_image img {
+    left: 120px;
+    top: -455px;
+  }
+
+  // =====// Banner part End == // ==================================//
+
+  // =====// Client part == // ==================================//
+
+  #client_part .shape .container .head p {
+    font-family: 'Google Sans';
+    font-size: 20px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_two_logo img {
+    left: 57px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_four_logo img {
+    left: 21px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_five_logo img {
+    left: 82px;
+  }
+
+
+  #client_part .shape .container .client_all_logo .client_one_logo img {
+    left: 60px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_five_logo img {
+    left: 39px;
+  }
+
+  // =====// Client part End == // ==================================//
+
+
+  // =====// Deals part == // ==================================//
+
+
+  #deals_part .container .deals_left h2 span {
+    display: inline-block;
+  }
+
+  #deals_part .container .deals_left h2 {
+    font-family: 'Noto Serif JP';
+    text-align: center;
+  }
+
+  #deals_part .container .deals_left .left_image img {
+    left: 550px;
+    top: -23px;
+  }
+
+  #deals_part .container .deals_left p span {
+    display: inline-block;
+  }
+
+  #deals_part .container .deals_left p {
+    font-family: 'Google Sans';
+    font-size: 23px;
+    margin-top: 14px;
+    text-align: center;
+  }
+
+  #deals_part .container .deals_md_one {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  #deals_part .container .deals_md_one h4 {
+    font-family: 'Google Sans';
+    font-size: 26px;
+    margin-top: 30px;
+  }
+
+  #deals_part .container .deals_md_one p {
+    font-family: 'Google Sans';
+    font-size: 20px;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image {
+    width: 16px;
+    position: relative;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image img {
+    position: absolute;
+    left: 240px;
+    top: 6px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  #deals_part {
+    padding: 2px 0 15px;
+  }
+
+  // =====// Deals part End == // ==================================//
+
+
+  // =====// About part == // ==================================//
+
+  #about_part {
+    padding: 40px 0 40px;
+  }
+
+  #about_part .container .about_head h1 {
+    font-family: 'Noto Serif JP';
+    text-align: center;
+  }
+
+  #about_part .container .about_head p {
+    font-family: 'Google Sans';
+    line-height: 30px;
+    text-align: center;
+  }
+
+  #about_part .container .submit a {
+    top: 22px;
+    right: 192px;
+  }
+
+  #about_part .container .information h2 span {
+    display: inline-block;
+    font-size: 25px;
+  }
+
+  #about_part .container .information {
+    text-align: center;
+    margin-top: 42px;
+  }
+
+  #about_part .container .information h2 {
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 76px;
+    color: #244D4D;
+  }
+
+  #about_part .container .information p {
+    font-family: 'Google Sans';
+    font-size: 20px;
+  }
+
+  #about_part .container .information p span {
+    display: block;
+  }
+
+  .about_image_part_one {
+    position: relative;
+    width: 350px;
+  }
+
+  .about_image_part_two {
+    position: relative;
+    width: 350px;
+  }
+
+  .about_image_part_two img {
+    position: absolute;
+    left: 174px;
+    top: 0px;
+    transform: translateX(-50%);
+  }
+
+  .about_image_part_three {
+    position: relative;
+    width: 350px;
+  }
+
+  .about_image_part_three img {
+    position: absolute;
+    right: -364px;
+    top: -41px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .about_image_part_four {
+    position: relative;
+    width: 350px;
+  }
+
+  .about_image_part_four img {
+    position: absolute;
+    right: -364px;
+    top: 252px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  #about_part {
+    padding: 40px 0 200px;
+  }
+
+  // =====// About part End == // ==================================//
+
+  // =====// Product part == // ==================================//
+
+  #product_part {
+    padding: 195px 0 30px !important;
+  }
+
+  #product_part .container .head h3 {
+    font-family: 'Noto Serif JP';
+    font-size: 45px !important;
+    text-align: center;
+  }
+
+  #product_part .container .last_row {
+    margin-top: 49px !important;
+  }
+
+  .filter_break {
+    margin-top: 136px;
+  }
+
+  #product_part .container .filter_img .image_filter {
+    position: relative;
+    width: 100px;
+  }
+
+  #product_part .container .filter_img .image_filter img {
+    height: 185px;
+    left: 305px !important;
+    top: -34px;
+  }
+
+  #product_part .container .break_down {
+    margin-top: 0 !important;
+  }
+
+  #product_part .container .last_row {
+    margin-top: 40px !important;
+  }
+
+  #product_part .container .filter_img .image_back {
+    width: 70% !important;
+    margin-left: 118px !important;
+  }
+
+  // =====// Product part End == // ==================================//
+
+  // =====// Comment part == // ==================================//
+
+  #comment_part .container .container_shape .comment_slider {
+    margin-top: 38px !important;
+  }
+
+  #comment_part .container .folder_image img {
+    position: absolute;
+    left: 427px !important;
+    top: -8px !important;
+  }
+
+  #comment_part .container .folder_image::after {
+    position: absolute;
+    left: 425px !important;
+    top: -29px !important;
+    width: 34px !important;
+    height: 35px !important;
+    line-height: 30px !important;
+  }
+
+  #comment_part .container .container_shape .folder_image {
+    width: 30px !important;
+  }
+
+  #comment_part .container .container_shape .head h3 {
+    font-family: 'Noto Serif JP';
+    font-size: 45px !important;
+    line-height: 55px !important;
+  }
+
+  #comment_part .container .container_shape .shape_image_one {
+    position: relative;
+    width: 70px !important;
+  }
+
+  #comment_part .container .container_shape .shape_image_one img {
+    position: absolute;
+    left: 0;
+    top: -223px !important;
+  }
+
+  #comment_part .container .container_shape .shape_image_two {
+    width: 110px !important;
+    position: relative;
+  }
+
+  #comment_part .container .container_shape .shape_image_two img {
+    position: absolute;
+    left: 0;
+    top: -204px !important;
+  }
+
+  #comment_part .container .container_shape .folder_image {
+    width: 45px !important;
+  }
+
+  #comment_part .container .folder_image img {
+    position: absolute;
+    left: 555px !important;
+    top: -120px !important;
+  }
+
+  #comment_part .container .folder_image::after {
+    position: absolute;
+    left: 555px !important;
+    top: -147px !important;
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 30px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text a {
+    left: -342px !important;
+  }
+
+  #comment_part .container .container_shape .round_image img {
+    position: absolute;
+    left: 150px;
+    bottom: -59px !important;
+  }
+
+  // =====// Comment part End == // ==================================//
+
+  // =====// Footer part == // ==================================//
+
+  #footer_part .container .footer_head h2 {
+    font-family: 'Google Sans';
+    font-size: 46px !important;
+    line-height: 40px !important;
+    text-align: center;
+  }
+
+  #footer_part .container .submit {
+    text-align: center !important;
+  }
+
+  #footer_part .container .submit a {
+    font-family: 'Inter';
+    font-size: 16px !important;
+    line-height: 23px !important;
+    text-align: center !important;
+    padding: 9px 15px !important;
+    margin-top: 15px !important;
+  }
+
+  #footer_part .container .footer_logo {
+    text-align: center;
+    margin-top: -90px !important;
+  }
+
+  #footer_part .container .footer_logo p {
+    font-family: 'Google Sans';
+    margin-top: 14px !important;
+  }
+
+  #footer_part .container .footer_logo .social ul {
+    margin-left: 279px !important;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+    margin-top: 40px !important;
+  }
+
+  #footer_part .container .types .head h4 {
+    font-size: 24px !important;
+  }
+
+  #footer_part .container .types ul li {
+    font-family: 'Inter';
+    font-size: 16px !important;
+  }
+
+  #footer_part .container .types ul {
+    margin-top: 20px !important;
+  }
+
+  #footer_part .container::after {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 163px !important;
+  }
+
+  #footer_part {
+    padding: 30px 0 0px;
+    background: #244D4D;
+  }
+
+  // =====// Footer part End == // ==================================//
+
+
+
+}
+
+
+/* =======******====== Medium part End ======******====== */
+/* =======******====== Medium part End ======******====== */
+
+
+
+
+
+
+
+
+/* =======******====== Small part one ======******====== */
+/* =======******====== Small part one ======******====== */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  // =====// menu part == // ==================================//
+
+  .main_menu .menu_right .bars {
+    display: none;
+  }
+
+  .main_menu .menu_right .search {
+    position: relative;
+  }
+
+  .main_menu .menu_right .search a {
+    position: absolute;
+    right: 245px;
+    top: 286px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+  }
+
+  .main_menu button {
+    position: relative;
+  }
+
+  .main_menu button i {
+    color: #244D4D;
+    // margin-left: 68px;
+    text-align: left;
+  }
+
+
+  .main_menu {
+    height: 50px;
+    z-index: 999;
+  }
+
+  .main_menu #navbarSupportedContent {
+    background: #f1f1f1;
+    text-align: center;
+  }
+
+  .main_menu {
+    background: #f1f1f1;
+    top: 0px;
+  }
+
+  .main_menu .menu_item ul li a {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: #244D4D;
+  }
+
+  .main_menu a {
+    font-family: 'Noto Serif JP';
+    font-size: 20px;
+    color: #244D4D;
+  }
+
+  // =====// menu part End == // ==================================//
+
+
+
+  // =====// Banner part == // ==================================//
+
+  #banner_part .container .banner_slider .slick-slide {
+    padding: 0 12px;
+  }
+
+  #banner_part .container .banner_slider .banner_image img {
+    height: 260px;
+    margin-top: 0;
+  }
+
+
+  #banner_part .container .content .inner_content h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 20px;
+  }
+
+  #banner_part .container .content .inner_content {
+    left: 256px;
+    top: -127px;
+    width: 216px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.5);
+    text-align: center;
+  }
+
+  #banner_part .container .content .inner_content p {
+    font-family: 'Google Sans';
+    font-size: 14px;
+    margin-top: -47px;
+  }
+
+  #banner_part .container .content .inner_content p span {
+    display: block;
+    margin-top: -10px;
+  }
+
+  #banner_part .container .icon {
+    position: relative;
+    display: none;
+  }
+
+  // =====// Banner part End == // ==================================//
+
+
+  // =====// Client part == // ==================================//
+
+
+  #client_part {
+    padding: 10px 0 20px;
+  }
+
+  #client_part .shape .container .head p {
+    font-size: 15px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_one_logo img {
+    left: 175px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_two_logo img {
+    left: 175px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_three_logo img {
+    left: 175px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_four_logo img {
+    left: 175px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_five_logo img {
+    left: 175px;
+  }
+
+  // =====// Client part End == // ==================================//
+
+
+  // =====// Deals part == // ==================================//
+
+  #deals_part {
+    padding: 10px 0 10px;
+  }
+
+  #deals_part .container .deals_left h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 28px;
+    text-align: center;
+  }
+
+  #deals_part .container .deals_left h2 span {
+    display: inline-block;
+  }
+
+  #deals_part .container .deals_left .left_image img {
+    left: 255px;
+    top: 57px;
+  }
+
+  #deals_part .container .deals_left p {
+    font-family: 'Google Sans';
+    margin-top: -5px;
+    text-align: center;
+  }
+
+  #deals_part .container .deals_left p span {
+    margin-top: -3px;
+  }
+
+  #deals_part .container .deals_md_one {
+    margin-left: 0;
+    text-align: center;
+    margin-top: 38px;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image {
+    width: 14px;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image {
+    position: relative;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image img {
+    position: absolute;
+    left: 165px;
+    top: 6px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  // =====// Deals part End == // ==================================//
+
+
+  // =====// About part == // ==================================//
+
+
+  #about_part {
+    padding: 10px 0 20px;
+  }
+
+  #about_part .container .about_head h1 {
+    font-family: 'Noto Serif JP';
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #about_part .container .about_head p span {
+    display: inline-block;
+  }
+
+  #about_part .container .about_head p {
+    font-family: 'Google Sans';
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: -7px;
+  }
+
+  #about_part .container .submit a {
+    position: absolute;
+    font-size: 15px;
+    margin-right: 115px;
+    padding: 6px 30px;
+    margin-top: -15px;
+  }
+
+  #about_part .container .information h2 {
+    font-family: 'Google Sans';
+    font-size: 35px;
+    text-align: center;
+    margin-top: 23px;
+  }
+
+  #about_part .container .information h2 span {
+    font-size: 20px;
+    margin-top: -38px;
+  }
+
+  #about_part .container .information p {
+    font-family: 'Google Sans';
+    text-align: center;
+    margin-top: -14px;
+    font-size: 20px;
+  }
+
+  #about_part .container .responsive_margin {
+    margin-top: 13px;
+  }
+
+  .about_image_part_three {
+    margin-top: 20px;
+  }
+
+  #about_part .container .image_first {
+    margin-top: 30px;
+  }
+
+  // =====// About part End == // ==================================//
+
+
+  // =====// Product part == // ==================================//
+
+  .filter_break {
+    margin-top: 136px;
+  }
+
+  #product_part .container .filter_img .image_filter {
+    position: relative;
+    width: 100px;
+  }
+
+  #product_part .container .filter_img .image_filter img {
+    height: 185px;
+    left: 197px !important;
+    top: -34px;
+  }
+
+  #product_part .container .break_down {
+    margin-top: 0 !important;
+  }
+
+  #product_part .container .last_row {
+    margin-top: 40px !important;
+  }
+
+  // =====// Product part End == // ==================================//
+
+  // =====// Comment part == // ==================================//
+
+
+  #comment_part {
+    padding: 80px 0 50px !important;
+  }
+
+  #comment_part .container .head h3 span {
+    display: inline-block !important;
+  }
+
+  #comment_part .container .head h3 {
+    font-family: 'Noto Serif JP';
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+
+  #comment_part .container .shape_image_one {
+    width: 30px !important;
+  }
+
+  #comment_part .container .shape_image_two {
+    width: 50px !important;
+  }
+
+  #comment_part .container .head p span {
+    display: inline-block !important;
+  }
+
+  #comment_part .container .head p {
+    font-family: 'Google Sans';
+    font-size: 14px !important;
+    line-height: 23px !important;
+  }
+
+  #comment_part .container .container_shape .shape_image_one img {
+    position: absolute;
+    left: 0;
+    top: -130px !important;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  #comment_part .container .shape_image_two img {
+    position: absolute;
+    left: 0;
+    top: -120px !important;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  #comment_part .container .folder_image img {
+    position: absolute;
+    left: 427px !important;
+    top: -8px !important;
+  }
+
+  #comment_part .container .folder_image::after {
+    position: absolute;
+    left: 425px !important;
+    top: -29px !important;
+    width: 34px !important;
+    height: 35px !important;
+    line-height: 30px !important;
+  }
+
+  #comment_part .container .container_shape .folder_image {
+    width: 30px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text h6 {
+    font-family: 'Noto Serif JP';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px !important;
+    line-height: 30px;
+    color: #5E7388;
+    margin-top: 30px;
+  }
+
+  #comment_part .container .container_shape .comment_image img {
+    height: 228px !important;
+    margin-left: 22px;
+  }
+
+  #comment_part .container .container_shape .comment_image .text .name p {
+    font-family: 'Google Sans';
+    margin-top: -1px !important;
+  }
+
+  #comment_part .container .container_shape .round_image img {
+    left: 38px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text a {
+
+    left: -668px !important;
+    top: 70px !important;
+  }
+
+  #comment_part .container .container_shape .comment_slider {
+    margin-top: 35px !important;
+  }
+
+  // =====// Comment part End == // ==================================//
+
+
+  // =====// Footer part == // ==================================//
+
+
+  #footer_part .container .footer_head h2 {
+    font-family: 'Google Sans';
+    font-size: 39px !important;
+    line-height: 40px !important;
+    text-align: center;
+  }
+
+  #footer_part .container .submit {
+    text-align: center !important;
+  }
+
+  #footer_part .container .submit a {
+    font-family: 'Inter';
+    font-size: 16px !important;
+    line-height: 23px !important;
+    text-align: center !important;
+    padding: 9px 15px !important;
+    margin-top: 15px !important;
+  }
+
+  #footer_part .container .footer_logo {
+    text-align: center;
+    margin-top: -90px !important;
+  }
+
+  #footer_part .container .footer_logo p {
+    font-family: 'Google Sans';
+    margin-top: 14px !important;
+  }
+
+  #footer_part .container .footer_logo .social ul {
+    margin-left: 188px !important;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+    margin-top: 40px !important;
+  }
+
+  #footer_part .container .types .head h4 {
+    font-size: 24px !important;
+  }
+
+  #footer_part .container .types ul li {
+    font-family: 'Inter';
+    font-size: 16px !important;
+  }
+
+  #footer_part .container .types ul {
+    margin-top: 20px !important;
+  }
+
+  #footer_part .container::after {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 163px !important;
+  }
+
+  #footer_part {
+    padding: 30px 0 0px;
+    background: #244D4D;
+  }
+
+  // =====// Footer part End == // ==================================//
+
+}
+
+/* =======******====== Small part one End ======******====== */
+/* =======******====== Small part one End ======******====== */
+
+
+
+
+/* =======******====== Small part Two ======******====== */
+/* =======******====== Small part Two ======******====== */
+
+@media (max-width: 575.98px) {
+
+  // =====// menu part == // ==================================//
+
+  .main_menu {
+    height: 50px;
+    z-index: 999;
+  }
+
+  .main_menu #navbarSupportedContent {
+    background: #f1f1f1;
+    text-align: center;
+  }
+
+  .main_menu {
+    background: #f1f1f1;
+    top: 0px;
+  }
+
+  .main_menu .menu_item ul li a {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: #244D4D;
+  }
+
+  .main_menu a {
+    font-family: 'Noto Serif JP';
+    font-size: 20px;
+    color: #244D4D;
+  }
+
+  .main_menu .menu_right a {
+    margin: 0 8px;
+    color: #242424;
+    font-size: 14px;
+  }
+
+  .main_menu .menu_right .bars a {
+    color: #242424;
+    font-size: 14px;
+    display: none;
+  }
+
+
+
+  .main_menu .menu_right .search a {
+    display: none;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+  }
+
+  .main_menu button i {
+    color: #244D4D;
+    margin-left: 68px;
+  }
+
+  // =====// menu part == // ==================================//
+
+  // =====// banner part == // ==================================//
+
+  #banner_part .container .banner_slider .slick-slide {
+    padding: 0 12px;
+  }
+
+  #banner_part .container .banner_slider .banner_image img {
+    height: 260px;
+    margin-top: 0;
+  }
+
+
+  #banner_part .container .content .inner_content h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 20px;
+  }
+
+  #banner_part .container .content .inner_content {
+    left: 141px;
+    top: -127px;
+    width: 216px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.5);
+    text-align: center;
+  }
+
+  #banner_part .container .content .inner_content p {
+    font-family: 'Google Sans';
+    font-size: 14px;
+    margin-top: -47px;
+  }
+
+  #banner_part .container .content .inner_content p span {
+    display: block;
+    margin-top: -10px;
+  }
+
+  #banner_part .container .icon {
+    position: relative;
+    display: none;
+  }
+
+  // =====// banner part == // ==================================//
+
+  // =====// Client part == // ==================================//
+
+  #client_part {
+    padding: 10px 0 20px;
+  }
+
+  #client_part .shape .container .head p {
+    font-size: 13px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_one_logo img {
+    left: 65px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_two_logo img {
+    left: 64px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_three_logo img {
+    left: 67px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_four_logo img {
+    left: 66px;
+  }
+
+  #client_part .shape .container .client_all_logo .client_five_logo img {
+    left: 64px;
+  }
+
+  // =====// Client part == // ==================================//
+
+  // =====// Deals part == // ==================================//
+
+  #deals_part {
+    padding: 10px 0 10px;
+  }
+
+  #deals_part .container .deals_left h2 {
+    font-family: 'Noto Serif JP';
+    font-size: 28px;
+    text-align: center;
+  }
+
+  #deals_part .container .deals_left h2 span {
+    display: inline-block;
+  }
+
+  #deals_part .container .deals_left .left_image img {
+    left: 135px;
+    top: 55px;
+  }
+
+  #deals_part .container .deals_left p {
+    font-family: 'Google Sans';
+    margin-top: -5px;
+    text-align: center;
+  }
+
+  #deals_part .container .deals_left p span {
+    margin-top: -3px;
+  }
+
+  #deals_part .container .deals_md_one {
+    margin-left: 0;
+    text-align: center;
+    margin-top: 38px;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image {
+    width: 14px;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image {
+    position: relative;
+  }
+
+  #deals_part .container .deals_md_one .deals_md_image img {
+    position: absolute;
+    left: 55px;
+    top: 6px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  // =====// Deals part End == // ==================================//
+
+
+  // =====// About part == // ==================================//
+
+  #about_part {
+    padding: 10px 0 20px;
+  }
+
+  #about_part .container .about_head h1 {
+    font-family: 'Noto Serif JP';
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #about_part .container .about_head p span {
+    display: inline-block;
+  }
+
+  #about_part .container .about_head p {
+    font-family: 'Google Sans';
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: -7px;
+  }
+
+  #about_part .container .submit a {
+    position: absolute;
+    font-size: 15px;
+    text-align: center;
+    padding: 6px 30px;
+    margin-top: -15px;
+  }
+
+  #about_part .container .information h2 {
+    font-family: 'Google Sans';
+    font-size: 35px;
+    text-align: center;
+    margin-top: 23px;
+  }
+
+  #about_part .container .information h2 span {
+    font-size: 20px;
+    margin-top: -38px;
+  }
+
+  #about_part .container .information p {
+    font-family: 'Google Sans';
+    text-align: center;
+    margin-top: -14px;
+  }
+
+  #about_part .container .responsive_margin {
+    margin-top: 13px;
+  }
+
+  .about_image_part_three {
+    margin-top: 20px;
+  }
+
+  #about_part .container .image_first {
+    margin-top: 30px;
+  }
+
+  // =====// About part End == // ==================================//
+
+  // =====// Product part == // ==================================//
+
+  #product_part {
+    padding: 5px 0 !important;
+  }
+
+  #product_part .container .head h3 {
+    font-family: 'Noto Serif JP';
+    font-size: 30px !important;
+    text-align: center !important;
+  }
+
+  #product_part .container .filer_menu ul li {
+    padding: 10px 9px !important;
+  }
+
+  .filter_break {
+    margin-top: 95px !important;
+  }
+
+  #product_part .container .filter_img .image_filter {
+    position: relative !important;
+    width: 100px !important;
+  }
+
+  #product_part .container .filter_img .image_filter img {
+    height: 185px !important;
+    left: 98px !important;
+    top: -34px !important;
+  }
+
+  #product_part .container .break_down {
+    margin-top: 0 !important;
+  }
+
+  #product_part .container .last_row {
+    margin-top: 40px !important;
+  }
+
+  // =====// Product part End == // ==================================//
+
+
+  // =====// Comment part == // ==================================//
+
+  #comment_part {
+    padding: 80px 0 50px !important;
+  }
+
+  #comment_part .container .head h3 span {
+    display: inline-block !important;
+  }
+
+  #comment_part .container .head h3 {
+    font-family: 'Noto Serif JP';
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+
+  #comment_part .container .shape_image_one {
+    width: 30px !important;
+  }
+
+  #comment_part .container .shape_image_two {
+    width: 50px !important;
+  }
+
+  #comment_part .container .head p span {
+    display: inline-block !important;
+  }
+
+  #comment_part .container .head p {
+    font-family: 'Google Sans';
+    font-size: 14px !important;
+    line-height: 23px !important;
+  }
+
+  #comment_part .container .shape_image_two img {
+    position: absolute;
+    left: 0;
+    top: -159px !important;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  #comment_part .container .shape_image_one img {
+    top: -170px !important;
+  }
+
+  #comment_part .container .comment_image .text a {
+    padding: 6px 8px !important;
+    left: -548px !important;
+    top: 32px !important;
+    font-size: 9px !important;
+  }
+
+  #comment_part .container .folder_image img {
+    position: absolute;
+    left: 218px !important;
+    top: -71px !important;
+  }
+
+  #comment_part .container .folder_image::after {
+    position: absolute;
+    left: 216px !important;
+    top: -93px !important;
+    width: 34px !important;
+    height: 35px !important;
+    line-height: 30px !important;
+  }
+
+  .comment_image {
+    display: block !important;
+  }
+
+  .slider .slick-slide {
+    padding: 0 12px;
+  }
+
+  #comment_part .container .container_shape .comment_image img {
+    height: 151px !important;
+    margin-left: 0px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text {
+    position: relative !important;
+    margin-left: 45px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text h6 {
+    font-family: 'Noto Serif JP';
+    font-size: 12px !important;
+    line-height: 17px !important;
+    margin-top: 10px !important;
+    margin-left: -23px !important;
+  }
+
+  #comment_part .container .container_shape .round_image {
+    position: relative !important;
+    width: 20px !important;
+  }
+
+  #comment_part .container .container_shape .round_image img {
+    position: absolute;
+    left: 71px !important;
+    bottom: 8px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text .name p {
+    font-family: 'Google Sans';
+    font-size: 16px !important;
+    margin-top: -25px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text .name .second_p {
+    font-family: 'Google Sans';
+    font-size: 11px !important;
+    margin-top: 0px !important;
+  }
+
+  #comment_part .container .container_shape .comment_slider {
+    margin-top: 25px !important;
+  }
+
+  #comment_part .container .comment_image .text a {
+    padding: 6px 8px !important;
+    left: -658px !important;
+    top: -112px !important;
+  }
+
+  #comment_part .container .container_shape .comment_image .text {
+    position: relative !important;
+    margin-left: 40px !important;
+  }
+
+  #comment_part .container .container_shape .folder_image {
+    width: 30px !important;
+  }
+
+  // =====// Comment part End == // ==================================//
+
+  // =====// Footer part == // ==================================//
+
+
+  #footer_part .container .footer_head h2 {
+    font-family: 'Google Sans';
+    font-size: 28px !important;
+    line-height: 40px !important;
+    text-align: center;
+  }
+
+  #footer_part .container .submit {
+    text-align: center !important;
+  }
+
+  #footer_part .container .submit a {
+    font-family: 'Inter';
+    font-size: 13px !important;
+    line-height: 23px !important;
+    text-align: center !important;
+    padding: 9px 15px !important;
+    margin-top: 15px !important;
+  }
+
+  #footer_part .container .footer_logo {
+    text-align: center;
+    margin-top: -90px !important;
+  }
+
+  #footer_part .container .footer_logo p {
+    font-family: 'Google Sans';
+    margin-top: 14px !important;
+  }
+
+  #footer_part .container .footer_logo .social ul {
+    margin-left: 70px !important;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+  }
+
+  #footer_part .container .types {
+    text-align: center;
+    margin-top: 20px !important;
+  }
+
+  #footer_part .container::after {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 163px !important;
+  }
+
+  #footer_part {
+    padding: 30px 0 0px;
+    background: #244D4D;
+  }
+
+  // =====// Footer part End == // ==================================//
+
+
+}
+
+/* =======******====== Small part Two End ======******====== */
+/* =======******====== Small part Two End ======******====== */
+
+
+
+
+
+/* =======******====== responsive Part ======******====== */
+/* =======******====== responsive Part ======******====== */

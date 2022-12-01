@@ -1,0 +1,87 @@
+// ====================== Deals Part ====================== //
+#deals_part {
+    padding: 40px 0 40px;
+
+    .container {
+        .deals_left {
+
+            h2 {
+                font-family: 'Noto Serif JP';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 50px;
+                color: #244D4D;
+
+                span {
+                    display: block;
+                }
+            }
+
+            p {
+                font-family: 'Google Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 26px;
+                letter-spacing: 0.01em;
+                color: #0E0E13;
+                margin-top: 11px;
+
+                span{
+                    display: block;
+                }
+            }
+
+            .left_image {
+                width: 14px;
+                position: relative;
+
+                img {
+                    position: absolute;
+                    left: 107px;
+                    top: -77px;
+                    -webkit-transform: translate(-50%, -50%);
+                    transform: translate(-50%, -50%);
+
+                }
+            }
+        }
+
+        .deals_md_one {
+            margin-left: 60px;
+            .deals_md_image {
+                width: 16px;
+            }
+
+            h4 {
+                font-family: 'Google Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 28px;
+                letter-spacing: 0.01em;
+                color: #3D3D3F;
+                margin-top: 15px;
+            }
+
+            p {
+                font-family: 'Google Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 26px;
+                letter-spacing: 0.01em;
+                color: #0E0E13;
+                margin-top: 15px;
+
+                span{
+                    display: block;
+                }
+            }
+        }
+    }
+}
+
+
+// ====================== Deals Part ====================== //

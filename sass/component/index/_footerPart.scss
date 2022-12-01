@@ -1,0 +1,139 @@
+// ====================== Footer Part ====================== //
+
+#footer_part {
+    padding: 30px 0 40px;
+    background: #244D4D;
+
+    .container {
+
+        position: relative;
+
+        &::after {
+            position: absolute;
+            content: '';
+            left: 0;
+            bottom: 273px;
+            height: 1px;
+            width: 100%;
+            background: #FCFBFF;
+        }
+
+        .footer_head {
+            h2 {
+                font-family: 'Google Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 45px;
+                line-height: 60px;
+                color: #FFFFFF;
+
+            }
+
+        }
+
+        .submit {
+            a {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 19px;
+                line-height: 23px;
+                text-align: center;
+                color: #244D4D;
+                padding: 12px 30px;
+                background: #FCFBFF;
+                border-radius: 20px;
+                transition: all linear .3s;
+                margin: 0 5px;
+
+                &:hover {
+                    background: #3A5F5F;
+                    color: #FCFBFF;
+                }
+
+            }
+        }
+
+
+        .footer_row {
+            margin-top: 130PX;
+        }
+
+        .footer_logo {
+            a {
+                font-family: 'Noto Serif JP';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 26px;
+                line-height: 37px;
+                letter-spacing: -0.03em;
+                color: #FFFFFF;
+            }
+
+            p {
+                font-family: 'Google Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 27px;
+                color: #EEEEEE;
+                margin-top: 20px;
+
+                span {
+                    display: block;
+                }
+            }
+
+            .social {
+                margin-top: 20px;
+
+                ul {
+                    display: flex;
+                    margin-left: -14px;
+
+                    li {
+                        margin: 0 10px;
+                        color: #FCFBFF;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+
+        .types {
+            .head {
+                h4 {
+                    font-family: 'Google Sans';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 17px;
+                    line-height: 22px;
+                    color: #FFFFFF;
+                }
+            }
+
+            ul{
+                margin-top: 12px;
+                li {
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 18px;
+                    color: #EEEEEE;
+                    margin: 6px 0;
+                    cursor: pointer;
+                    transition: all linear .3s;
+
+                    &:hover{
+                        transform: translateX(2px);
+                    }
+                }
+            }
+        }
+
+
+    }
+}
+
+// ====================== Footer Part ====================== //

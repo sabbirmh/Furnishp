@@ -1,0 +1,98 @@
+// ====================== Client Part ====================== //
+#client_part {
+    padding: 50px 0 50px;
+
+    .shape {
+        padding: 40px 0 42px;
+        background: #F4F6F6;
+
+        .container {
+            .head {
+                p {
+                    font-family: 'Google Sans';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 18px;
+                    line-height: 25px;
+                    text-align: center;
+                    letter-spacing: 0.14em;
+                    color: #031745;
+                }
+            }
+
+            .client_all_logo {
+                margin-top: 30px;
+
+                .client_one_logo {
+                    position: relative;
+                    width: 100px;
+
+                    img {
+                        position: absolute;
+                        left: 98px;
+                        top: 11px;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                    }
+
+                }
+
+                .client_two_logo {
+                    position: relative;
+                    width: 100px;
+
+                    img {
+                        position: absolute;
+                        left: 33px;
+                        top: 12px;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                    }
+                }
+
+                .client_three_logo {
+                    position: relative;
+                    width: 100px;
+
+                    img {
+                        position: absolute;
+                        left: 33px;
+                        top: 12px;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                    }
+                }
+
+                .client_four_logo {
+                    width: 100px;
+                    position: relative;
+
+                    img {
+                        position: absolute;
+                        left: 33px;
+                        top: 12px;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                    }
+                }
+
+                .client_five_logo {
+                    position: relative;
+                    width: 100px;
+
+                    img {
+                        position: relative;
+                        left: 30px;
+                        top: 9px;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+// ====================== Client Part ====================== //

@@ -1,0 +1,105 @@
+// ====================== Banner Part ====================== //
+
+#banner_part {
+    margin-bottom: 30px;
+    .container {
+
+        .banner_slider {
+            .banner_image {
+
+                img {
+                    height: 600px;
+                    margin-top: 8px;
+                }
+            }
+
+            .prv_arr,
+            .nxt_arr {
+                position: absolute;
+                z-index: 1;
+            }
+
+            .prv_arr {
+                top: 209px;
+                left: 883px;
+            }
+
+            .nxt_arr {
+                right: -49px;
+                bottom: 335px;
+            }
+        }
+
+        .dots_image {
+            position: relative;
+            width: 100px;
+
+            img {
+                height: 88px;
+                position: absolute;
+                left: 88px;
+                top: -534px;
+                -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+        }
+
+        .content {
+            position: relative;
+
+            .inner_content {
+                position: absolute;
+                left: 237px;
+                top: -293px;
+                -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+                width: 475px;
+                height: 447px;
+                background: rgba(255, 255, 255, 0.4);
+
+                h2 {
+                    font-family: 'Noto Serif JP';
+                    font-style: normal;
+                    font-weight: 900;
+                    font-size: 58px;
+                    color: #244D4D;
+                    margin: 50px 0;
+                }
+
+                p {
+                    font-family: 'Google Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 25px;
+                    line-height: 30px;
+                    letter-spacing: 0.01em;
+
+                    color: #5F5F64;
+                    margin-top: -32px;
+
+                    span {
+                        display: block;
+                    }
+                }
+            }
+        }
+
+        .icon {
+            position: relative;
+
+            a {
+                padding: 20px 30px;
+                background: rgba(241, 241, 241, 0.9);
+                color: #313131;
+                font-size: 20px;
+                position: absolute;
+                right: -51px;
+                bottom: -42px;
+                transform: translate(-50%, -50%);
+            }
+        }
+    }
+}
+
+
+// ====================== Banner Part ====================== //
